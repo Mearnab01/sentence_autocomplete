@@ -172,4 +172,12 @@ You can test the API backend endpoints without the browser UI:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
