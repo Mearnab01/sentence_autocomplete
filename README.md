@@ -158,6 +158,7 @@ You can test the API backend endpoints without the browser UI:
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -167,4 +168,8 @@ You can test the API backend endpoints without the browser UI:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
