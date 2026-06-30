@@ -152,3 +152,19 @@ You can test the API backend endpoints without the browser UI:
 - **Deep Learning Mode**: A local PyTorch LSTM model trained from scratch with word-level embedding. Once you manually start training via the API (`/train`), it sequentially learns.
 - **LLM-Based Mode**: A context-aware integration with the Hugging Face API to fetch intelligent sentence completions using zero-shot inference.
 - **Caching**: Contains backend caching to avoid re-rendering duplicate completions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
