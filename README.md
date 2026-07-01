@@ -158,16 +158,19 @@ You can test the API backend endpoints without the browser UI:
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -181,6 +184,7 @@ You can test the API backend endpoints without the browser UI:
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
