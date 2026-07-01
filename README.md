@@ -164,10 +164,12 @@ You can test the API backend endpoints without the browser UI:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,4 +182,5 @@ You can test the API backend endpoints without the browser UI:
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
