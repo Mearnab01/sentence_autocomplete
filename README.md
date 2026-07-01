@@ -159,6 +159,7 @@ You can test the API backend endpoints without the browser UI:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0057-insert-interval) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0217-contains-duplicate) |
 ## Hash Table
