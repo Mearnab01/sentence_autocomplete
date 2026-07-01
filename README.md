@@ -184,7 +184,12 @@ You can test the API backend endpoints without the browser UI:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mearnab01/sentence_autocomplete/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
